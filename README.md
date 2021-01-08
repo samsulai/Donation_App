@@ -1,4 +1,4 @@
-# online_payment
+# Donation App
 
 This is a code repository for a tutorial on medium. For a detailed explanation of the code <a href='https://medium.com/bithubph/payment-integration-with-node-js-express-request-and-paystack-api-8cebf51c1f52?fbclid=IwAR0pKEfIhY4RSH8UKoheaFHnDyJnqKp-N8rB5JRQHzfPHVg6w72Dq2_xDLE' target='_blank'>medium post</a>
 
