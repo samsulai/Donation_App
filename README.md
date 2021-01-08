@@ -1,6 +1,6 @@
 # Donation App
 
-a Node.js Application for donations
+A Node.js Application for accepting Donations..
 
 You can clone the repos to have to try it out.
 
